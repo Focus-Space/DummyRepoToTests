@@ -1,2 +1,1 @@
-import test
-
+console.log("Patlıcan")
